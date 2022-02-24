@@ -78,5 +78,10 @@ The tax prices, exempt vehicles, and holidays in a year are configured through t
 Test cases Information
 Total 16 test are implemented for test the Application REST endpoint with different inputs
 
-Total 16 test are implemented for test the Application REST endpoint with different inputs
+
+![image](https://user-images.githubusercontent.com/75684075/155523764-06351d89-9257-4a1c-8dc9-dffc79420eff.png)
+
+
+
+
 
