@@ -1,7 +1,7 @@
 **CongestionTaxCalculator**
 
 
-CongestionTaxCalculator is a Springboot REST Api service to calculate the congestion tax calculator in Gothenberg  City.
+CongestionTaxCalculator is a Springboot REST Api service to calculate the congestion tax  in Gothenberg  City.
 
 As part of calculation, this applications implemented some of exemption on Holidays, weekends and some of vehicle.
 
